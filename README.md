@@ -1,4 +1,4 @@
-# React Shopping List App
+# React Shopping List
 
 ![screenshot](image.png)
 
